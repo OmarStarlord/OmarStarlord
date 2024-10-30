@@ -24,7 +24,5 @@ I'm a 21-year-old software engineering student based in France, with a strong in
 ### 🏆 GitHub Trophies:
 ![Trophies](https://github-profile-trophy.vercel.app/?username=OmarStarlord&theme=radical)
 
-### 🌱 Contribution Graph:
-![Contribution Graph](https://activity-graph.herokuapp.com/graph?username=OmarStarlord&theme=react-dark)
 
 
