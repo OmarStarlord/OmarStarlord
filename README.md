@@ -11,19 +11,20 @@ I'm a 21-year-old software engineering student based in France, with a strong in
 
 
 ### 📊 GitHub Stats:
-![Your GitHub stats](https://github-readme-stats.vercel.app/api?username=your-username&show_icons=true&theme=radical)
+![Your GitHub stats](https://github-readme-stats.vercel.app/api?username=OmarStarlord&show_icons=true&theme=radical)
 
 ### 🔥 Streak Stats:
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=your-username&theme=radical)
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=OmarStarlord&theme=radical)
 
 ### 💻 Most Used Languages:
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=your-username&layout=compact&theme=radical)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=OmarStarlord&layout=compact&theme=radical)
 
 ---
 
 ### 🏆 GitHub Trophies:
-![Trophies](https://github-profile-trophy.vercel.app/?username=your-username&theme=radical)
+![Trophies](https://github-profile-trophy.vercel.app/?username=OmarStarlord&theme=radical)
 
 ### 🌱 Contribution Graph:
-![Contribution Graph](https://activity-graph.herokuapp.com/graph?username=your-username&theme=react-dark)
+![Contribution Graph](https://activity-graph.herokuapp.com/graph?username=OmarStarlord&theme=react-dark)
+
 
