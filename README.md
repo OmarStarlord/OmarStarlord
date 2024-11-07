@@ -7,7 +7,7 @@ I'm a 21-year-old software engineering student based in France, with a strong in
 - 🤖 Excited to dive into artificial intelligence and machine learning in the near future.
 - 👯 Open to collaborations on software projects and ideas.
 - 📫 How to reach me: https://www.linkedin.com/in/Lidalt-Omar
-- ⚡ Fun fact: I’m a huge fan of sci-fi and always enjoy a good space or tech documentary!
+- ⚡ Fun fact: I’m a huge fan of UFC and always enjoy a good hike in the mountains.
 
 
 ### 📊 GitHub Stats:
