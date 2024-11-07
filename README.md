@@ -6,7 +6,7 @@ I'm a 21-year-old software engineering student based in France, with a strong in
 - 🌱 Actively learning about data structures, algorithms, and full-stack development.
 - 🤖 Excited to dive into artificial intelligence and machine learning in the near future.
 - 👯 Open to collaborations on software projects and ideas.
-- 📫 How to reach me: https://www.linkedin.com/in/omar-lidalt-080a9126a/
+- 📫 How to reach me: https://www.linkedin.com/in/Lidalt-Omar
 - ⚡ Fun fact: I’m a huge fan of sci-fi and always enjoy a good space or tech documentary!
 
 
