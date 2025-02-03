@@ -1,6 +1,6 @@
 ## Hi there 👋 I'm Omar Lidalt
 
-I'm a 21-year-old software engineering student based in France, with a strong interest in AI and machine learning. I'm always looking to learn, improve, and collaborate with others on innovative projects.
+I'm a 22-year-old software engineering student based in France, with a strong interest in AI and machine learning. I'm always looking to learn, improve, and collaborate with others on innovative projects.
 
 - 🔭 Currently working on my software engineering studies and building practical coding projects.
 - 🌱 Actively learning about data structures, algorithms, and full-stack development.
